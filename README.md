@@ -79,7 +79,7 @@ Furthermore, the adoption of the optimized version of PyTorch tailored for Intel
 
 1.**Image Classification:** The image classification component of our project entailed intricate computational tasks, particularly during feature extraction and classification. Conducting these computations in Google Colab often led to extended processing durations due to resource constraints. However, leveraging Intel Developer Cloud's CPU and XPU resources resulted in a significant reduction in processing time. The parallel processing capabilities of Intel's infrastructure allowed us to classify images swiftly, thereby enhancing the efficiency of our image classification model. 🌟🖼️
 
-![Comparison Graph](images/image.png)![graph](https://github.com/Arshad-Smd/DeepfakeDetection/images/blob/main/image.png?raw=true)
+![Comparison Graph](images/image.png?raw=true)
 
 > Comparison between processing times in Intel Developer Cloud using OneDNN and Google Colab
 
