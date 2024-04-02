@@ -79,19 +79,19 @@ Furthermore, the adoption of the optimized version of PyTorch tailored for Intel
 
 1.**Image Classification:** The image classification component of our project entailed intricate computational tasks, particularly during feature extraction and classification. Conducting these computations in Google Colab often led to extended processing durations due to resource constraints. However, leveraging Intel Developer Cloud's CPU and XPU resources resulted in a significant reduction in processing time. The parallel processing capabilities of Intel's infrastructure allowed us to classify images swiftly, thereby enhancing the efficiency of our image classification model. 🌟🖼️
 
-![Comparison Graph](images/image.png?raw=true)
+![Comparison Graph](Images/image.png?raw=true)
 
 > Comparison between processing times in Intel Developer Cloud using OneDNN and Google Colab
 
 2.**Video Classification:** Similarly, the video classification aspect of our project involved intensive computational tasks, especially during feature extraction and model inference. Executing these computations in Google Colab frequently resulted in prolonged processing periods due to limited resources. Nevertheless, harnessing Intel Developer Cloud's CPU and XPU resources led to a substantial decrease in processing time. Leveraging Intel's parallel processing capabilities facilitated swift video classification, thereby improving the performance of our video classification model. 🌟📹
 
-![Comparison Graph](images/video.png)
+![Comparison Graph](Images/video.png)
 
 > Comparison between processing times in Intel Developer Cloud using OneDNN and Google Colab
 
 3.**Audio Classification:** The audio classification module of our project required complex computational operations, particularly during feature extraction and model training. Carrying out these computations in Google Colab often led to extended processing durations owing to resource constraints. However, leveraging Intel Developer Cloud's CPU and XPU resources resulted in a remarkable reduction in processing time. Capitalizing on Intel's parallel processing capabilities enabled rapid audio classification, thereby enhancing the effectiveness of our audio classification model. 🌟🎶
 
-![Comparison Graph](images/audio.png)
+![Comparison Graph](Images/audio.png)
 
 > Comparison between processing times in Intel Developer Cloud using OneDNN and Google Colab
 
