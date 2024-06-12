@@ -9,6 +9,7 @@
 
 🔍🔒 Step into the forefront of media integrity with **DeepFakeDetective**, where advanced technology safeguards authenticity. Our state-of-the-art platform leads the fight against deceptive content by employing AI-powered deepfake detection, ensuring the veracity of every piece of media. Experience peace of mind as our platform verifies the authenticity of images, audio, and videos, protecting against manipulation and misinformation. Join us in preserving trust and reliability in the digital landscape. Together, let's defend the truth with DeepFakeDetective. 🛡️👀
 
+
 # Demonstration of the Project
 
 [![Video](https://img.youtube.com/vi/9jg5Vva33Q4/0.jpg)](https://www.youtube.com/watch?v=9jg5Vva33Q4)
